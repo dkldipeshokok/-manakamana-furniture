@@ -76,11 +76,11 @@ xampp/htdocs/
 7. Open your browser and visit:
 
 ```
-http://localhost/manakamana-furniture/
+http://localhost/manakamana-furniture/index.php
 ```
 For my port 8080
 ```
-http://localhost:8080/manakamana-furniture/
+http://localhost:8080/manakamana-furniture/index.php
 ```
 
 ## Payment Gateway
