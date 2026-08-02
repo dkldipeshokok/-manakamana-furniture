@@ -78,8 +78,8 @@ xampp/htdocs/
 ```
 http://localhost/manakamana-furniture/
 ```
-```
 For my port 8080
+```
 http://localhost:8080/manakamana-furniture/
 ```
 
